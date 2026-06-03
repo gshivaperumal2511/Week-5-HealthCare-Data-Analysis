@@ -61,11 +61,16 @@ The dataset simulates real-world academic performance data for 250 students.
 ### **3. Visualization**
 The project includes:
 
-- Histograms: To visualize the distribution of health parameters.
-- Box Plots: For identifying medical outliers in cholesterol and heart rate.
-- Heatmaps: To find correlations between age and rising blood pressure.
+- Bar Chart: To visualize Gender-wise health risk comparison
+<img width="575" height="484" alt="image" src="https://github.com/user-attachments/assets/c08ed209-df2d-4ed2-92f3-cfffb3504039" />
+
+- Pie Chart: To visualize Risk level distribution.
+<img width="385" height="408" alt="image" src="https://github.com/user-attachments/assets/f00a0abb-6247-4d4b-873a-38ccfc0afc1f" />
+
 - Scatter Plots: Analyzing the relationship between sugar levels and risk categories.
-- Visualizations make insights clear and easy to interpret. 
+<img width="562" height="450" alt="image" src="https://github.com/user-attachments/assets/39c6a7fc-6959-40d2-8786-1230c226c8bc" />
+
+Visualizations make insights clear and easy to interpret. 
 
 ---
 
